@@ -1,0 +1,6 @@
+Variable,Kruskal_Wallis_H,p_value,Groups
+EEG_Alpha,2.4896976862328732,0.47715581967513654,"Insomnia, Narcolepsy, REM Behavior Disorder, Sleep Apnea"
+EEG_Beta,7.263841359216306,0.06394717671595992,"Insomnia, Narcolepsy, REM Behavior Disorder, Sleep Apnea"
+EEG_Theta,1.344649012555743,0.7185590094888848,"Insomnia, Narcolepsy, REM Behavior Disorder, Sleep Apnea"
+Quality of Sleep,8.347591843701172,0.03934856694211286,"Insomnia, Narcolepsy, REM Behavior Disorder, Sleep Apnea"
+Sleep Duration,1.3476758946571195,0.7178442847707103,"Insomnia, Narcolepsy, REM Behavior Disorder, Sleep Apnea"

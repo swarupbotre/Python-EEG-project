@@ -1,0 +1,9 @@
+,mean,std,min,max
+EEG_Alpha,59.94,23.207,20.0,99.99
+EEG_Beta,27.23,13.029,5.03,50.0
+EEG_Theta,22.544,10.107,5.01,39.99
+Sleep Duration,7.126,0.802,5.6,8.7
+Quality of Sleep,6.59,1.68,4.0,9.0
+Stress Level,5.508,1.703,3.0,8.0
+Physical Activity Level,56.004,18.877,30.0,90.0
+Daily Steps,5633.88,1784.533,3000.0,10000.0
